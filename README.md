@@ -1,6 +1,6 @@
-### Hi there, i'm Andrew 👋
+### Hi there, I'm Andrew 👋
 
-I'm a software engineer based in Miami Florida. I recently graduated from the Hack Reactor Software Engineering Immersive. Previously I also attended Wyncode Academy in Miami Fl.
+I'm a software engineer based in Miami Florida. I recently graduated from the Hack Reactor Software Engineering Immersive. Previously I also attended Wyncode Academy in Miami Fl. I have about 10 years of experience working on Digital Teams, from Marketing, E-Commerce, Web Design, and Digital Analytics. I'm happy to network or talk shop with anybody looking to learn more. 
 
 Feel free to reach out to me below:
 
